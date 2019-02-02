@@ -1,0 +1,44 @@
+@font-face{
+	font-family: 'gamefont0';
+	src: url('../fonts/gamefont0.ttf');
+}
+@font-face{
+	font-family: 'gamefont1';
+	src: url('../fonts/gamefont1.ttf');
+}
+@font-face{
+	font-family: 'gamefont2';
+	src: url('../fonts/gamefont2.ttf');
+}
+@font-face{
+	font-family: 'gamefont3';
+	src: url('../fonts/gamefont3.ttf');
+}
+@font-face{
+	font-family: 'gamefont4';
+	src: url('../fonts/gamefont4.ttf');
+}
+@font-face{
+	font-family: 'gamefont5';
+	src: url('../fonts/gamefont5.ttf');
+}
+@font-face{
+	font-family: 'gamefont6';
+	src: url('../fonts/gamefont6.ttf');
+}
+@font-face{
+	font-family: 'gamefont7';
+	src: url('../fonts/gamefont7.ttf');
+}
+html, body{
+	padding: 0px;
+	margin: 0px;
+	overflow: hidden;
+	width: 100%;
+	height: 100%;
+}
+#canvas-parent{
+	width: 100%;
+	height: auto;
+	text-align: center;
+}
